@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "builds": {
-    "src": "index.json",
+  "builds": [
+    {
+     "src": "index.json",
     "use": "@vercel/node"
-  
-  },
+    }
+  ],
   "routes": [
     {
       "src": "/(.*)",
