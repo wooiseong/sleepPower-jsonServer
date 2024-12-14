@@ -1,11 +1,13 @@
 {
-  "main": "index.js",
-  "dependencies": {
-    "json-server": "^1.0.0-beta.3",
-    "node-modules": "^0.0.1",
-    "vercel": "^28.18.5"
-  },
+  "name": "json-server-vercel",
+  "version": "1.0.0",
+  "description": "Deploy JSON Server to Vercel",
+  "main": "server.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "server.js"
+  },
+  "dependencies": {
+    "json-server": "^0.17.4",
+    "node-modules": "^1.0.1"
   }
 }
