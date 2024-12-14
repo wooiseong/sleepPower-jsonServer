@@ -3,5 +3,8 @@
     "json-server": "^1.0.0-beta.3",
     "node-modules": "^0.0.1",
     "vercel": "^28.18.5"
+  },
+  "scripts": {
+    "start": "node index.js"
   }
 }
