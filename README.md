@@ -1,6 +1,11 @@
 ## Deploy JSON Server to Vercel
 
-This is the database for the project <a href="https://github.com/wooiseong/sleepPower-project">sleepPower</a> A template to deploy [JSON Server](https://github.com/typicode/json-server) to [Vercel](https://vercel.com), allow you to run fake REST API online!
+This is the database for the project <a href="https://github.com/wooiseong/sleepPower-project">sleepPower</a>. A template to deploy [JSON Server](https://github.com/typicode/json-server) to [Vercel](https://vercel.com), allow you to run fake REST API online!
+
+## View
+Desktop (1366px)
+
+![image](https://i.ibb.co/cJFfF9K/2024-12-19-134322.png)
 
 Demo from this repository: 
 
